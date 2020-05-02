@@ -1,2 +1,3 @@
-# black-hole
-Blackhole stimulation with Threejs + WebGL
+# Black Hole Stimulation
+
+A Web page for Blackhole stimulation with Threejs + WebGL
