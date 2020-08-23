@@ -1,5 +1,9 @@
 # Black Hole Stimulation
 
+<p align="center">
+<img src="blackhole stimulation by praveen manoharan-zerrowtech .png">
+</p>
+
 A Web page for understing how Blackhole can collapse a galaxy. It was simple stimulation created with Threejs + WebGL.
 
 
