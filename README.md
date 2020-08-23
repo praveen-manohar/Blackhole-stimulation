@@ -1,7 +1,7 @@
 # Black Hole Stimulation
 
 <p align="center">
-<img src="blackhole stimulation by praveen manoharan-zerrowtech .png">
+<img src="blackholestimulation.png" alt="andromeda-blackhole-stimulation-praveen-manohar">
 </p>
 
 A Web page for understing how Blackhole can collapse a galaxy. It was simple stimulation created with Threejs + WebGL.
@@ -10,7 +10,7 @@ A Web page for understing how Blackhole can collapse a galaxy. It was simple sti
 ***For a live demo, visit [Blackhole](https://praveen-manohar.github.io/Blackhole-stimulation/) on your Desktop.
 
 <p align="center">
-<img src="./res/andromeda.jpeg">
+<img src="./res/andromeda.jpeg" width="500" height="600" alt="andromeda">
 </p>
 
 ***Usage:
