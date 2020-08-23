@@ -35,7 +35,7 @@ function initWebGL(vertexShader, fragmentShader) {
     var container = $("div.container");
     container.append(renderer.domElement);
 
-    showLoadingText("Loading hBlackhole in Andromeda Galaxy");
+    showLoadingText("Loading Blackhole in Andromeda Galaxy");
 
     (new THREE.TextureLoader()).load("res/andromeda.jpeg", function (texture) {
         var uniforms = {
