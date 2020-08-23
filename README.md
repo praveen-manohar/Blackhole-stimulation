@@ -10,7 +10,7 @@ A Web page for understing how Blackhole can collapse a galaxy. It was simple sti
 ***For a live demo, visit [Blackhole](https://praveen-manohar.github.io/Blackhole-stimulation/) on your Desktop.
 
 <p align="center">
-<img src="./res/andromeda.jpeg" width="500" height="600" alt="andromeda">
+<img src="./res/andromeda.jpeg" width="500" height="500" alt="andromeda">
 </p>
 
 ***Usage:
